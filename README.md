@@ -1,6 +1,6 @@
 # Galactic War SWRP
 
-![map](image.png)
+![map](/public/image.png)
 
 Galactic War SWRP is an interactive map that simulates the progress of a galactic war, inspired by Star Wars roleplay servers.
 
